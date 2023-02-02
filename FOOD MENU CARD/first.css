@@ -1,0 +1,38 @@
+.main{
+     background-color: black;
+}
+
+.mainhead{
+    color: rgb(163, 95, 11);
+    margin-left: 20px;
+    padding-top: 20px;
+}
+
+.heading{
+
+    border: 0px;
+    padding: 0px;
+    margin: 20px 0px 0px 25px;
+    
+     color: rgb(163, 95, 11);
+  
+    
+}
+.rate{
+        position: absolute;
+         width:50px;
+         height:20px;
+         right:2em;
+         padding: 26px;
+        background-color:#FF9C34;
+        color:white;
+        text-align:center;
+  }
+.paragraph{
+   
+    border: 0px;
+    padding: 0px;
+    margin: 0px 0px 0px 25px;
+    color: azure;
+    
+}
